@@ -273,3 +273,14 @@ svg.polaroid rect {
 	}
 
 }
+.musik
+{
+	text-align: center;
+	z-index: 2;
+	position: Absolute;
+	display: block;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top:20%;
+}
